@@ -13,7 +13,7 @@ div {
 }
 
 a:visited {
-  color: pink;
+  color:rgb(239, 50, 220);
   background-color: transparent;
   text-decoration: none;
 }
