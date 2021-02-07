@@ -5,3 +5,10 @@ h1 {
 body {
     background-color:rgb(0, 0, 0);
 }
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
