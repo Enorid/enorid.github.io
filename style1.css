@@ -7,11 +7,11 @@ body {
 }
 
 div {
-  background-image: url('myBackground.jpg');
+  background-image:url('myBackground.jpg');
   width: 800px;
   height: 600px;
 }
 
 p {
-  color: rgb(255, 255, 255);
+  color:rgb(255, 255, 255);
 }
