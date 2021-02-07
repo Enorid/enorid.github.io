@@ -6,8 +6,6 @@ body {
     background-color:rgb(0, 0, 0);
 }
 
- .imageContainer {
-       width:200px; 
-       height:200px; 
-       background-image: url(myBackground.jpg);
- }
+div {
+  background-image: url('myBackground.jpg');
+}
