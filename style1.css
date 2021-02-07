@@ -10,11 +10,4 @@ div {
   background-image:url('myBackground.jpg');
   width: 800px;
   height: 600px;
-   
-    a:visited {
-  color:rgb(239, 50, 220);
-  background-color: transparent;
-  text-decoration: none;
-}
-
 }
